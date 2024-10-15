@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: krista chungath
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: krista
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: krista
+last_name: Chungath
 
 # Status emoji
 status:
@@ -40,8 +40,8 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: BTECH Artificial Intelligence
+    institution: RSET
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
